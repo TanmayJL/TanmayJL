@@ -54,7 +54,7 @@ I'm a Computing Science student specializing in Software Practice, driven by the
 
 **Tech Stack:** Python, React, Django, Docker
 
-[🔗 View Repo](https://github.com/TanmayJL/Pharmacology-Games) · [🌐 Live Demo](pharma.buxtonlabs.com)
+[🔗 View Repo](https://github.com/TanmayJL/Pharmacology-Games) · [🌐 Live Demo](https://pharma.buxtonlabs.com)
 
 ---
 
