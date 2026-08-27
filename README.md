@@ -41,7 +41,7 @@ I'm a Computing Science student specializing in Software Practice, driven by the
 
 **Tech Stack:** Python, Django, Heroku
 
-[🔗 View Repo](https://github.com/TanmayJL/Social-Distribution)
+[🔗 View Repo](https://github.com/TanmayJL/Social-Distribution) · [🌐 Live Demo](https://darkblue-t-e95f231c645d.herokuapp.com/)
 
 ---
 
