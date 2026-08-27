@@ -32,12 +32,50 @@ I'm a Computing Science student specializing in Software Practice, driven by the
 
 ### My Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Social-Distribution** | A federated social network with distributed nodes and cross-node follower relationships. | Python, Django, Heroku|
-| **Pharmacology-Games** | An interactive game to learn drug classifications and mechanisms through engaging quizzes. | Python, React, Django, Docker |
-| **Starcraft-II-Terran-Bot** | A C++ bot for competitive AI ladder play, featuring real-time strategy and combat micro. | C++, cpp-sc2 API |
-| **QRConnect** | An Android event check-in system where organizers generate QR codes and attendees scan to check in. | Android, Java, Kotlin, Firebase |
+## 🖥️ Social-Distribution
+> A federated social network with distributed nodes and cross-node follower relationships.
+
+<p align="center">
+  <img src="assets/darkblue.png" width="600" height="250" />
+</p>
+
+**Tech Stack:** Python, Django, Heroku
+
+[🔗 View Repo](https://github.com/TanmayJL/Social-Distribution)
+
+---
+
+#### 🧪 ElevatED
+> An interactive platform to support learning for Pharmacology students through engaging quizzes based on lecture slides.
+
+<p align="center">
+  <img src="assets/elevatedHome.png" width="600" height="250" />
+</p>
+
+**Tech Stack:** Python, React, Django, Docker
+
+[🔗 View Repo](https://github.com/TanmayJL/Pharmacology-Games) · [🌐 Live Demo](pharma.buxtonlabs.com)
+
+---
+
+#### 🎮 Starcraft-II-Terran-Bot
+> A C++ bot for competitive AI ladder play, featuring real-time strategy and combat micro.
+
+**Tech Stack:** C++, cpp-sc2 API
+
+[🔗 View Repo](https://github.com/TanmayJL/Starcraft-II-Terran-Bot)
+
+---
+
+#### 📱 QRConnect
+> An Android event check-in system where organizers generate QR codes and attendees scan to check in.
+
+
+
+**Tech Stack:** Android, Java, Kotlin, Firebase
+
+[🔗 View Repo](https://github.com/CMPUT301W24T39/qr-connect-developers)
+
 
 ---
 
